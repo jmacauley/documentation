@@ -1,2 +1,2 @@
-# documentation
-A repo to track programming notes
+# Documentation
+I am a total mess when it comes to keeping track of information I use on a daily basis.  Sticky notes, scrap pieces of paper, text files on multiple machines, and the god forsaken google docs.  Decided to try maintaining a repo to track programming related notes.  Let us see how long this will last...
